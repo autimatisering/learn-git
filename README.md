@@ -1,18 +1,17 @@
 # Git Leren
 
-Dit project is bedoelt voor lessen die Stichting Autimatisering geeft in de toepassing van Git en Github.
+Dit project is bedoelt voor lessen die Stichting Autimatisering geeft in de toepassing van Git en Github. Deze branch dienst voor de 2e opdracht van de les.
 
-### Oefening
+## Opdracht 2
 
-- [ ] Maak een Repository op Github met `README.md` bestand
-- [ ] Clone het project naar jouw laptop
-- [ ] Pas het README bestand aan, en schrijf jouw naam op
-- [ ] "Stage" dit bestand om het aan een nieuwe commit toe te voegen
-- [ ] Schrijf een "commit message", waarin je jouw toevoegingen en aanpassingen omschrijft
+Maak een Pull Request naar dit repository waarin je de naam van deelnemers aan past. Vervang "Niemand" met jouw naam, en maak een pull request. Nadat iedereen een pull request heeft gemaakt, voegt de leraar zijn naam toe. Een voor een mergen de deelnemers de veranderingen in hun PR.
 
-### Opdracht
+### Situatie Schets
 
-- [ ] "Fork" dit repository naar jouw Github account
-- [ ] Pas het README.md bestand aan en zet een `x` in elke taak die je hebt **uitgevoerd en afgerond** in dit bestand
-- [ ] Commit & Push de veranderingen, en ga terug naar het oorspronkelijke repository van Autimatisering
-- [ ] Maak een "Pull Request" aan met jouw veranderingen, en zet jouw naam in de titel van dit "PR"
+Als leraar "Piet" zijn naam toe voegt is de waarde van "Deelnemers" gelijk aan `Piet`.
+Zodra deelnemer "Henk" zijn naam toe voegt, is de waarde `Piet en Henk`.
+Als een volgende deelnemer, "Jan", zijn naam toe voegt veranderd dit in `Piet, Henk en Jan`.
+
+### Deelnemers
+
+Niemand
