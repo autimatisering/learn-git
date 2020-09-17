@@ -14,4 +14,6 @@ Als een volgende deelnemer, "Jan", zijn naam toe voegt veranderd dit in `Piet, H
 
 ### Deelnemers
 
-Cees
+Joannis, Thomas, Benjamin en Cees
+
+
