@@ -1,3 +1,5 @@
+change 17sep2020 - 11h50
+
 # Git Leren
 
 Dit project is bedoelt voor lessen die Stichting Autimatisering geeft in de toepassing van Git en Github.
