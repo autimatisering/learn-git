@@ -14,5 +14,5 @@ Dit project is bedoelt voor lessen die Stichting Autimatisering geeft in de toep
 
 - [x] "Fork" dit repository naar jouw Github account
 - [x] Pas het README.md bestand aan en zet een `x` in elke taak die je hebt **uitgevoerd en afgerond** in dit bestand
-- [ ] Commit & Push de veranderingen, en ga terug naar het oorspronkelijke repository van Autimatisering
+- [x] Commit & Push de veranderingen, en ga terug naar het oorspronkelijke repository van Autimatisering
 - [ ] Maak een "Pull Request" aan met jouw veranderingen, en zet jouw naam in de titel van dit "PR"
