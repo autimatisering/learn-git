@@ -14,4 +14,6 @@ Als een volgende deelnemer, "Jan", zijn naam toe voegt veranderd dit in `Piet, H
 
 ### Deelnemers
 
-Stijn van gemert
+
+Joannis, Thomas, Benjamin, Cees en Stijn 
+
