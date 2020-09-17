@@ -4,7 +4,7 @@ Dit project is bedoelt voor lessen die Stichting Autimatisering geeft in de toep
 
 ### Oefening
 
-- [ ] Maak een Repository op Github met `README.md` bestand
+- [ ] Maak een eigen repository op Github met `README.md` bestand
 - [ ] Clone het project naar jouw laptop
 - [ ] Pas het README bestand aan, en schrijf jouw naam op
 - [ ] "Stage" dit bestand om het aan een nieuwe commit toe te voegen
